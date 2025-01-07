@@ -1,0 +1,25 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    min-height: 70vh;
+}
+
+.container{
+    display: block;
+    margin-left: 40px;
+}
+
+h1{
+    color: red;
+    font-size: 48px;
+    margin-bottom: 15px;
+}
+
+p{
+    color: gray;
+    font-size: 13px;
+}
